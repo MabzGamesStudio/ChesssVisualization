@@ -1,3 +1,5 @@
+![Chesss Visualization in action](ChesssVisualization.gif)
+
 ## How to use:
 - Setup chess board as desired.
 - Each square shows the net number of pieces seen by players.
