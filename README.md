@@ -14,3 +14,6 @@
 - B - show the squares seen by both players with net piece total
 - Clear - delete all pieces on the board
 - Reset - set pieces to initial configuration
+
+## Play in browswer at:
+https://mabz.itch.io/chess-visualization
